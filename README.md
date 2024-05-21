@@ -6,5 +6,5 @@
 
 ## Исходный код
 
-[Main](Main.java)
+[Main](Lab.java)
 
